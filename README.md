@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **JavaScript, C++**
