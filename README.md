@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **C#, Python, React, HTML, CSS**
+- 💬 Ask me about **C, Python, JavaScript, React, HTML, CSS**
 
 - 📫 How to reach me **changmiao.yu@mail.utoronto.ca**
 
