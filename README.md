@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **C, Python, JavaScript, React, HTML, CSS**
+- 💬 Ask me about **C, Python, Java, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **changmiao.yu@mail.utoronto.ca**
 
